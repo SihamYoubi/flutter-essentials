@@ -36,18 +36,6 @@ Une application Flutter complète qui regroupe plusieurs fonctionnalités utiles
 
 ---
 
-### Organisation du code
-
-lib/
-├── bloc/ # BLoC pour la To-Do List
-├── db/ # Accès SQLite
-├── model/ # Modèles de données
-├── pages/ # Interfaces utilisateur
-├── provider/ # Fournisseurs d'état (Provider)
-└── main.dart # Point d’entrée principal
-
----
-
 ## Captures d’écran 
 
 ### Page d'accueil
